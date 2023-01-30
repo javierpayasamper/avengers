@@ -17,4 +17,4 @@
 * Vision
 * Wasp
 * Antman
-* Javier Payá Samper
+* Javier Payá
